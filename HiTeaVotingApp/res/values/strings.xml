@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UMBC ACM: Hi-Tea Voting</string>
+    <string name="action_settings">Settings</string>
+    <string name="food_presentation">Food Presentation</string>
+    <string name="food_quality">Food Quality</string>
+    <string name="value_for_money">Value for Money</string>
+    <string name="submit">Submit Rating</string>
+    <string name="wait">Please wait&#8230;</string>
+    <string name="title_activity_data_transfer">DataTransferActivity</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="results">Results</string>
+    <string name="show_results">Show Results</string>
+
+</resources>

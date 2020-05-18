@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera App Using Intent</string>
+    <string name="take_picture_activity_name">Take a Picture</string>
+    <string name="action_settings">Settings</string>
+    <string name="picTakenContentDescr">This is the image view which will contain the image the user has taken</string>
+    <string name="takePictureButtonDisplayText">Take Picture</string>
+
+</resources>

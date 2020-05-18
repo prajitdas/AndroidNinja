@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTTP POST</string>
+    <string name="help_txt">The message below will be sent to the server</string>
+    <string name="txt_message_hint">Type a message here</string>
+    <string name="send">Click to send</string>
+
+</resources>
